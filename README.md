@@ -3,5 +3,5 @@
 ### unrelatedhistoriesrepo
 
 * remote
-** remote
-*** remote
+* remote
+* remote
